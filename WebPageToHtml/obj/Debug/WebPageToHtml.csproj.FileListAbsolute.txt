@@ -1,0 +1,5 @@
+D:\Projects\HtmlService\WebPageToHtml\obj\Debug\WebPageToHtml.csprojResolveAssemblyReference.cache
+D:\Projects\HtmlService\WebPageToHtml\bin\Debug\WebPageToHtml.dll
+D:\Projects\HtmlService\WebPageToHtml\bin\Debug\WebPageToHtml.pdb
+D:\Projects\HtmlService\WebPageToHtml\obj\Debug\WebPageToHtml.dll
+D:\Projects\HtmlService\WebPageToHtml\obj\Debug\WebPageToHtml.pdb

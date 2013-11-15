@@ -1,0 +1,8 @@
+D:\Projects\HtmlService\HtmlService\bin\Debug\HtmlService.exe.config
+D:\Projects\HtmlService\HtmlService\bin\Debug\HtmlService.exe
+D:\Projects\HtmlService\HtmlService\bin\Debug\HtmlService.pdb
+D:\Projects\HtmlService\HtmlService\bin\Debug\WebPageToHtml.dll
+D:\Projects\HtmlService\HtmlService\bin\Debug\WebPageToHtml.pdb
+D:\Projects\HtmlService\HtmlService\obj\Debug\HtmlService.csprojResolveAssemblyReference.cache
+D:\Projects\HtmlService\HtmlService\obj\Debug\HtmlService.exe
+D:\Projects\HtmlService\HtmlService\obj\Debug\HtmlService.pdb
